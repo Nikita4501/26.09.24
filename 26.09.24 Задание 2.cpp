@@ -7,7 +7,7 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    double a, b, c;
+    int a, b, c;
     cout << "Введите длины сторон треугольника: ";
     cin >> a >> b >> c;
 
