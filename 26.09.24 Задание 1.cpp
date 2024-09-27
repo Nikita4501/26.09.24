@@ -7,7 +7,7 @@ int main() //Задание 1
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    double a, b, c, d;
+    int a, b, c, d;
 
     cout << "Введите длины сторон фигуры: ";
     cin >> a >> b >> c >> d;
